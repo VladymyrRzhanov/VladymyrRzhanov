@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+![VladymyrRzhanov GitHub stats](https://github-readme-stats.vercel.app/api?username=VladymyrRzhanov&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladymyrRzhanov&layout=compact)](https://github.com/VladymyrRzhanov/github-readme-stats)
+
 <!--
 **VladymyrRzhanov/VladymyrRzhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
